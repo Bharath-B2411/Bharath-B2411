@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Bharath%20B&fontSize=50&fontColor=ffffff"/>
+
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
