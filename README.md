@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,24,30&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Universe+🚀;AI+Developer+%7C+Full+Stack+Engineer;Building+Ideas+Into+Reality"/>
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
