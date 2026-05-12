@@ -1,12 +1,4 @@
-```bash
-> Initializing Bharath.exe
-
-✔ Java Developer Loaded
-✔ AI Systems Activated
-✔ Full Stack Mode Enabled
-✔ Open Source Passion Detected
-
-System Status : ONLINE 🚀
+![snake gif](https://github.com/Bharath-B2411/Bharath-B2411/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
