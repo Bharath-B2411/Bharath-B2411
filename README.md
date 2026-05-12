@@ -1,26 +1,12 @@
-<table>
-<tr>
-<td width="55%">
+```bash
+> Initializing Bharath.exe
 
-# 👋 Hey, I'm Bharath
+✔ Java Developer Loaded
+✔ AI Systems Activated
+✔ Full Stack Mode Enabled
+✔ Open Source Passion Detected
 
-### 🚀 Web Development 
-### 🤖 AI Enthusiast  
-### 💻 Future Innovator
-
-🧠 Building Real World AI Projects  
-🔥 Passionate About Innovation  
-⚡ Learning Everyday  
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+System Status : ONLINE 🚀
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
