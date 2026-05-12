@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bharath</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-<!--
-**Bharath-B1805/Bharath-B1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+with+Java+%26+AI;Learning+Something+New+Everyday;Future+Software+Engineer+💻" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me
+
+🎓 AIML Student  
+💻 Passionate about Full Stack Development  
+🤖 Interested in AI & Machine Learning Projects  
+🚀 Currently Building Real World Projects  
+📚 Always learning new technologies  
+🔥 Goal: Become a top Software Engineer & Become CEO 
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Bharath-B2411" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://linkedin.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,js,react,nodejs,mongodb,git,github,vscode,eclipse" />
+</p>
+
+---
+
+# 📌 Current Projects
+
+✨ Career Path Recommender System  
+✨ MedScan AI – Medical Report Analyzer  
+✨ AI Powered Public Grievance System  
+✨ Online Book Store in Java  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bharath-B2411&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-B2411&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bharath-B2411&theme=algolia&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharath-B2411&theme=tokyo-night)](https://github.com/Bharath-B2411)
+
+---
+
+# ✨ Developer Quote
+
+> “Code. Learn. Build. Repeat.” 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bharath-B2411&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
