@@ -26,7 +26,7 @@ currently_learning:
   - Cloud Deployment
 
 mindset: "Build with purpose. Learn with consistency."
-```
+
 I enjoy turning ideas into useful, intelligent and visually engaging products. My goal is to become a software engineer who combines AI, clean development and thoughtful design to create meaningful digital experiences.
 ---
 🚀 Featured Projects
