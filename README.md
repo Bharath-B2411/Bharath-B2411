@@ -1,164 +1,123 @@
+# 🚀 Bharath B
+
 <div align="center">
-<img width="100%" src="./assets/banner.svg" alt="Bharath B animated profile banner"/>
-<img width="88%" src="./assets/typing.svg" alt="Animated introduction"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Bharath-B2411&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Bharath-B2411?label=FOLLOWERS&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Bharath-B2411?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="Stars"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BHARATH%20B&fontAlign=50&fontAlignY=38&fontSize=55&animation=fadeIn&color=gradient"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Full-Stack+Developer;UI%2FUX+Designer;Building+Intelligent+Software;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Bharath-B2411&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/Bharath-B2411?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Bharath-B2411?affiliations=OWNER&style=for-the-badge"/>
+
 </div>
+
 ---
-👨‍💻 About Me
+
+# 👨‍💻 About Me
+
 ```yaml
-name: Bharath B
-role: AI/ML Student & Full-Stack Developer
-location: Tamil Nadu, India
-
-focus:
-  - Artificial Intelligence and Machine Learning
-  - Full-Stack Web Development
-  - UI/UX Design
-  - Real-world Problem Solving
-
-currently_learning:
-  - Python and Data Structures
+Name: Bharath B
+Role: AI & ML Student
+Passion:
+  - Artificial Intelligence
+  - Full Stack Development
+  - UI/UX
   - Machine Learning
-  - Java
-  - Cloud Deployment
-
-mindset: "Build with purpose. Learn with consistency."
-
-I enjoy turning ideas into useful, intelligent and visually engaging products. My goal is to become a software engineer who combines AI, clean development and thoughtful design to create meaningful digital experiences.
----
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-🌟 FuturePathX — Career Recommender
-AI-powered career guidance platform with:
-Career recommendations
-Skill-gap analysis
-Personalised learning roadmaps
-Integrated resume builder
-Responsive user interface
-<p>
-<a href="https://futurepathx-career-recommender.onrender.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-<a href="https://github.com/Bharath-B2411/futurepathx-career-recommender">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</td>
-<td width="50%" valign="top">
-🔋 Atomberg Battery Reminder
-Python-based battery reminder project focused on:
-Battery status tracking
-Timely reminder notifications
-Simple automation
-Practical daily use
-<p>
-<a href="https://github.com/Bharath-B2411/Atomberg_Battery_Remainder">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-🎯 FuturePathX — Academic Version
-An earlier academic implementation of the AI-based career-path recommender with an integrated resume builder.
-<p>
-<a href="https://github.com/Bharath-B2411/FuturePathX">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</td>
-<td width="50%" valign="top">
-📚 Online Book Store in Java
-A Java-based project created to practise object-oriented programming and application development.
-<p>
-<a href="https://github.com/Bharath-B2411/Online-Book-Store-In-Java-">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
----
-🧰 Technology Arsenal
-Languages
-<p align="center">
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15"/>
-<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
-</p>
-Frameworks, Databases and Tools
-<p align="center">
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F0"/>
-<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=46E3B7"/>
-</p>
----
-🏆 Beyond the Code
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🥋</h3>
-<b>Karate Athlete</b><br/>
-<sub>15+ state-level championships and international-level achievements</sub>
-</td>
-<td align="center" width="25%">
-<h3>🚀</h3>
-<b>Hackathon Builder</b><br/>
-<sub>EY Hackathon semi-finalist with an accessibility-focused solution</sub>
-</td>
-<td align="center" width="25%">
-<h3>🤖</h3>
-<b>AI Explorer</b><br/>
-<sub>Building practical AI and machine-learning projects</sub>
-</td>
-<td align="center" width="25%">
-<h3>📈</h3>
-<b>Consistent Learner</b><br/>
-<sub>Improving coding, communication and problem-solving every day</sub>
-</td>
-</tr>
-</table>
----
-🎯 Current Mission
-```text
-01. Strengthen Python, Java and DSA
-02. Build production-ready AI applications
-03. Improve full-stack architecture and system design
-04. Contribute to collaborative and open-source projects
-05. Earn an impactful software engineering opportunity
+Current Goal:
+  Become a Software Engineer building impactful AI products.
 ```
+
 ---
-🤝 Let’s Connect
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,tailwind,mongodb,mysql,git,github,vscode,figma,postman&perline=7"/>
+
+</p>
+
+---
+
+# 🌟 Featured Project
+
+## FuturePathX
+
+AI-powered Career Recommendation platform featuring:
+
+- Career Prediction
+- Resume Builder
+- Skill Gap Analysis
+- Modern UI
+- Dashboard
+
+🔗 Live:
+https://futurepathx-career-recommender.onrender.com
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bharath-B2411&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Bharath-B2411&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-B2411&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bharath-B2411&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Bharath-B2411/Bharath-B2411/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> Enable the Platane/snk GitHub Action once in your profile repository to generate this automatically.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Master DSA
+- ✅ Build Production AI Apps
+- ✅ Open Source Contributions
+- ✅ Software Engineer Role
+
+---
+
+# 🤝 Connect
+
+- GitHub: https://github.com/Bharath-B2411
+- Email: bharathb200524@gmail.com
+
+---
+
 <div align="center">
-<a href="mailto:bharathb200524@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Bharath-B2411">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://futurepathx-career-recommender.onrender.com">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-0EA5E9?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-<br/><br/>
-💬 Developer Thought
-> **“I’m not here only to write code — I’m here to build something that matters.”**
-<img width="100%" src="./assets/footer.svg" alt="Animated footer"/>
+
+### 💙 "Build. Learn. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+
 </div>
