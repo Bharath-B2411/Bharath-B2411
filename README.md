@@ -1,98 +1,166 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,24,30&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62"/>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">
+Hi 👋 I'm Bharath B
+</h1>
+
+<h3 align="center">
+🚀 AI Engineer • Full Stack Developer • UI/UX Designer • Future Innovator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Vaanga+Project+Pannalaama+😍;Learning+Something+New+Everyday;Future+Innovator+💻" />
+Building intelligent software that solves real-world problems.
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 AIML Student  
-💻 Passionate about Full Stack Development  
-🤖 Interested in AI & Machine Learning Projects  
-🚀 Currently Building Real World Projects  
-📚 Always learning new technologies  
-🔥 Goal: Become a top Software Engineer & Become CEO 
+🎓 AIML Undergraduate
 
----
+💻 Passionate about Full Stack Development
 
-# 🌐 Connect With Me
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-<p align="left">
+🎨 UI/UX Designer
 
-<a href="https://github.com/Bharath-B2411" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
+🌱 Currently learning
 
-<a href="https://www.linkedin.com/in/bharath-b-644810314/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+- Python
+- Data Structures
+- Machine Learning
+- System Design
 
-<a href="https://instagram.com/zen_xmash" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
+🎯 Goal
 
-<a href="mailto:bharathb200524@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-</p>
+To become a Software Engineer who builds impactful AI products used by millions.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,js,react,nodejs,mongodb,git,github,vscode,eclipse" />
-</p>
+### Languages
+
+Python • Java • JavaScript • HTML • CSS • SQL
+
+### Frameworks
+
+React
+Node.js
+Express
+Tailwind CSS
+Spring Boot
+
+### Database
+
+MySQL
+MongoDB
+
+### AI
+
+Scikit Learn
+Pandas
+NumPy
+
+### Tools
+
+Git
+GitHub
+VS Code
+Figma
+Render
+Postman
 
 ---
 
-# 📌 Current Projects
+# 🚀 Featured Projects
 
-✨ Career Path Recommender System  
-✨ MedScan AI – Medical Report Analyzer  
-✨ AI Powered Public Grievance System  
-✨ Online Book Store in Java  
-✨ AI Code Generator 
+## 🌟 FuturePathX
+
+AI Career Recommendation System
+
+✔ Resume Builder
+
+✔ Career Prediction
+
+✔ Dashboard
+
+✔ Authentication
+
+✔ Modern UI
+
+---
+
+## 🤖 DevPilot AI
+
+AI Powered SDLC Assistant
+
+- Requirement Analysis
+
+- Code Generation
+
+- Documentation
+
+- Testing Support
+
+---
+
+## 💙 BIOSYNC
+
+Centralized Smart Attendance System
+
+---
+
+## ❤️ PSYRA
+
+AI Emotional Companion
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bharath-B2411&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-B2411&theme=tokyonight" height="180em"/>
-</p>
+(Add GitHub Readme Stats)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 Streak Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bharath-B2411&theme=algolia&row=1&column=6"/>
-</p>
+(Add GitHub Streak)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharath-B2411&theme=tokyo-night)](https://github.com/Bharath-B2411)
+(Add Snake Animation)
 
 ---
 
-# ✨ Developer Quote
+# 🏆 Achievements
 
-> “Code. Learn. Build. Repeat.” 🚀
+🥇 EY Hackathon Semi Finalist
+
+🏅 Infosys Springboard Certified
+
+🥋 International Karate Athlete
+
+🏆 AI & ML Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharath-B2411&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
-</p>
+# 🌐 Connect with Me
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+LinkedIn
+
+Portfolio
+
+Email
+
+GitHub
+
+---
+
+# 💡 Quote
+
+> "Innovation begins where curiosity meets consistency."
+
+---
+
+⭐ Thanks for visiting my profile!
