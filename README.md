@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=0,1,2,5,30&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62&descColor=dddddd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=000000&animation=twinkling&color=gradient&color1=ffffff&color2=cfcfcf&color3=7a7a7a&color4=2b2b2b&color5=000000&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62&descColor=000000"/>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
