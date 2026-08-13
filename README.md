@@ -1,50 +1,6 @@
-name: wakatime-stats
-
-on:
-  schedule:
-    - cron: '0 12 * * *'  # Runs daily at 12:00 UTC
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "YOUR_GITHUB_USERNAME"
-          COMMIT_EMAIL: "YOUR_EMAIL@example.com"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_SHORT_INFO: "True"
-          
-  <p align="center">
-  <a href="https://bharath.me">
-    <img alt="ZenX_mash — Kicks and block out the Barrier" width="880" src="assets/promo/guilyx-terminal.gif" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://bharath.me"><img alt="Portfolio" src="https://img.shields.io/badge/bharath.me-0d0e12?style=flat-square&logo=googlechrome&logoColor=8b95f0" /></a>
-  <a href="https://github.com/Bharath-B2411"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
-  <a href="https://www.linkedin.com/in/bharath-b-644810314/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" /></a>
-  <a href="https://www.researchgate.net/profile/bharath"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-0d0e12?style=flat-square&logo=researchgate&logoColor=8b95f0" /></a>
-  <a href="https://open.spotify.com/user/31ryywrlzc32riumqvz73wm3caqe><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0d0e12?style=flat-square&logo=spotify&logoColor=8b95f0" /></a>
-  <a href="mailto:bharathb200524@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
-</p>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="BHARATH B" />
+</h1>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
