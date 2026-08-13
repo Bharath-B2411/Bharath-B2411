@@ -1,8 +1,4 @@
-<p align="center"><a href="https://Bharath-B2411.github.io"><img width="80%" alt="Hello, I'm Bharath. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
-
-<br />
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
@@ -103,3 +99,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+## 🎵 Spotify status
+
+<a href="https://spotify-widget.jvillegasd.com/?opened">
+  <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
+</a>
