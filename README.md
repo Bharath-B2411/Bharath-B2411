@@ -1,4 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=000000&animation=twinkling&color=F5F5F5&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62&descColor=000000"/>
+<p align="center">
+  <a href="https://elejeune.me">
+    <img alt="guilyx — orchestration for robots and agents" width="880" src="assets/promo/guilyx-terminal.gif" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://elejeune.me"><img alt="Portfolio" src="https://img.shields.io/badge/elejeune.me-0d0e12?style=flat-square&logo=googlechrome&logoColor=8b95f0" /></a>
+  <a href="https://github.com/guilyx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
+  <a href="https://www.linkedin.com/in/bharath-b-644810314/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" /></a>
+  <a href="https://www.researchgate.net/profile/Erwin-Lejeune"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-0d0e12?style=flat-square&logo=researchgate&logoColor=8b95f0" /></a>
+  <a href="https://open.spotify.com/user/31ryywrlzc32riumqvz73wm3caqe><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0d0e12?style=flat-square&logo=spotify&logoColor=8b95f0" /></a>
+  <a href="mailto:erwin.lejeune15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
+</p>
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
