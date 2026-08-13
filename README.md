@@ -15,6 +15,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 # 💫 About Me
+
 🎓 AIML Student  
 💻 Passionate about Full Stack Development  
 🤖 Interested in AI & Machine Learning Projects  
@@ -25,6 +26,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 
 # 🌐 Connect With Me
+
 <p align="left">
 
 <a href="https://github.com/Bharath-B2411" target="blank">
