@@ -2,6 +2,44 @@
 <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <hr>
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="./assets/profile.png" width="350">
+
+</td>
+
+<td width="50%" valign="center">
+
+<h2>⚡ Developer Snapshot</h2>
+
+<p>🤖 <b>AI/ML Developer</b> &nbsp; | &nbsp; 💻 <b>Full Stack Developer</b></p>
+
+<p>🔭 <b>Currently Building:</b><br>
+FuturePathX & TwinForge AI</p>
+
+<p>🧠 <b>Exploring:</b><br>
+Generative AI • Machine Learning • Digital Twins</p>
+
+<p>💻 <b>Core:</b><br>
+Python • Java • SQL</p>
+
+<p>🌐 <b>Development:</b><br>
+React • Spring Boot • Node.js</p>
+
+<p>🗄️ <b>Databases:</b><br>
+MySQL • MongoDB</p>
+
+<p>🎯 <b>Goal:</b><br>
+Build intelligent solutions for real-world problems.</p>
+
+</td>
+
+</tr>
+</table>
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
