@@ -24,6 +24,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🔥 Goal: Become a top Software Engineer & Become CEO 
 
 ---
+
 </h2>🌐 Connect With Me</h2>
 
 <p align="left">
