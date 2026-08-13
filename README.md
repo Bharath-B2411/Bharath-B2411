@@ -2,6 +2,8 @@
 <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <hr>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
