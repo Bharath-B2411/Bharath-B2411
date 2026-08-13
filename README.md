@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Bharath%20B&font=Orbitron&fontSize=70&fontColor=000000&animation=twinkling&color=F5F5F5&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Innovator&descSize=20&descAlignY=62&descColor=000000"/>
-<h1 align="center">Hi 👋, I'm Bharath</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
