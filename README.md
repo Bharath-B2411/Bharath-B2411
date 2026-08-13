@@ -2,8 +2,6 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
-
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
@@ -11,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Vaanga+Project+Pannalaama+😍;Learning+Something+New+Everyday;Future+Innovator+💻" />
 </p>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
