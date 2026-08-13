@@ -1,4 +1,6 @@
-<p align="center"><a href="https://github.com/Bharath-B2411"><img width="80%" alt="Hello, I'm Bharath. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Bharath. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <br />
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
