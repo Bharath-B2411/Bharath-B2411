@@ -1,8 +1,5 @@
-<hr>
-<h3 align="center">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <hr>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
@@ -104,6 +101,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+<hr>
+<h3 align="center">Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ## 🎵 Spotify status
 
