@@ -12,9 +12,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-<h2>💫 About Me</h2>
+# 💫 About Me
 
 🎓 AIML Student  
 💻 Passionate about Full Stack Development  
@@ -25,7 +23,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-</h2>🌐 Connect With Me</h2>
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -113,3 +111,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://spotify-widget.jvillegasd.com/?opened">
   <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
 </a>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
