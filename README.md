@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://elejeune.me">
+  <a href="https://bharath.me">
     <img alt="guilyx — orchestration for robots and agents" width="880" src="assets/promo/guilyx-terminal.gif" />
   </a>
 </p>
