@@ -14,7 +14,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-# 💫 About Me
+<h2>💫 About Me</h2>
 
 🎓 AIML Student  
 💻 Passionate about Full Stack Development  
@@ -24,8 +24,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🔥 Goal: Become a top Software Engineer & Become CEO 
 
 ---
-
-# 🌐 Connect With Me
+</h2>🌐 Connect With Me</h2>
 
 <p align="left">
 
