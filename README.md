@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bharath.</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
@@ -111,5 +116,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://spotify-widget.jvillegasd.com/?opened">
   <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
 </a>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
