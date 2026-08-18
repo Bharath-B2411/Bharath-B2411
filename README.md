@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Vaanga+Project+Pannalaama+😍;Learning+Something+New+Everyday;Future+Innovator+💻" />
 </p>
 
-<h3 align="center"><a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"># if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"># if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
