@@ -1,3 +1,6 @@
+## GIF
+Coding Animation by Lorenzo Zottar at https://dribbble.com/shots/3641004-Coding-Animation
+
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
